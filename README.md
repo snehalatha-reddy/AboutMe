@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Snehalatha Reddy Yarrapagaru  
+# 👋 Hi, I'm Snehalatha Reddy Yarrapagari
 
 💻 Full-Stack Developer (MERN) | 🎓 Final Year CSE | 🌟 Passionate About AI Tools & Data-Driven Development  
 
